@@ -1,0 +1,11 @@
+Model Information:
+* title:	[WR TITANS] Kid
+* source:	https://sketchfab.com/3d-models/wr-titans-kid-fe9d3f873af44088a2d00ee8e586237d
+* author:	>corrupted ogre (https://sketchfab.com/corruptedogre)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "[WR TITANS] Kid" (https://sketchfab.com/3d-models/wr-titans-kid-fe9d3f873af44088a2d00ee8e586237d) by >corrupted ogre (https://sketchfab.com/corruptedogre) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
